@@ -1,2 +1,0 @@
-include ':GamingLibTest'
-include ':libraries:AndroidGamingLib'
